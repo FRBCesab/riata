@@ -3,6 +3,15 @@
 # riata <img src="man/figures/package-sticker.png" align="right" style="float:right; height:120px;"/>
 
 <!-- badges: start -->
+
+[![R CMD
+Check](https://github.com/frbcesab/riata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/frbcesab/riata/actions/workflows/R-CMD-check.yaml)
+[![Website](https://github.com/frbcesab/riata/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/frbcesab/riata/actions/workflows/pkgdown.yaml)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/riata)](https://CRAN.R-project.org/package=riata)
+[![License: GPL (&gt;=
+2)](https://img.shields.io/badge/License-GPL%20%28%3E%3D%202%29-blue.svg)](https://choosealicense.com/licenses/gpl-2.0/)
+[![Dependencies](https://img.shields.io/badge/dependencies-0/0-brightgreen?style=flat)](#)
 <!-- badges: end -->
 
 The goal of the R package `riata` is to **{{ PLEASE ADD A FEW LINES }}**
