@@ -22,3 +22,10 @@ get_token <- function(key = "IATI_KEY") {
   
   iati_token
 }
+
+
+
+#'
+#' @noRd
+
+valid_collections <- function() c("activity", "budget", "transaction")
