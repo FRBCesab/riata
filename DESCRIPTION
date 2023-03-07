@@ -1,4 +1,4 @@
-Package: riata
+Package: riati
 Type: Package
 Title: The Title of the Project
 Version: 0.0.0.9000
@@ -10,8 +10,8 @@ Authors@R: c(
            comment = c(ORCID = "0000-0002-5537-5294")))
 Description: A paragraph providing a full description of the project (on 
     several lines...)
-URL: https://github.com/frbcesab/riata
-BugReports: https://github.com/frbcesab/riata/issues
+URL: https://github.com/frbcesab/riati
+BugReports: https://github.com/frbcesab/riati/issues
 License: GPL (>= 2)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

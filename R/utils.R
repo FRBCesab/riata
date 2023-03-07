@@ -1,16 +1,24 @@
+#' 
+#' @noRd
+
 api_url <- function() "https://api.iatistandard.org/datastore/"
 
-get_token <- function(key = "IATA_KEY") {
+
+
+#' 
+#' @noRd
+
+get_token <- function(key = "IATI_KEY") {
   
-  iata_token <- Sys.getenv(key)
+  iati_token <- Sys.getenv(key)
   
-  if (iata_token == "") {
-    stop("Missing IATA API Token. ",
+  if (iati_token == "") {
+    stop("Missing IATI API Token. ",
          "Please make sure you:\n",
          " 1. have obtained you own token\n",
          " 2. have stored this token in the `~/.Renviron` file\n",
-         "For further detail: https://github.com/frbcesab/riata", call. = FALSE)
+         "For further detail: https://github.com/frbcesab/riati", call. = FALSE)
   }
   
-  iata_token
+  iati_token
 }
