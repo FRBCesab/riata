@@ -78,7 +78,7 @@ that match the query.
 
 Please cite this package as: 
 
-> Casajus N. (`r format(Sys.Date(), "%Y")`) riati: An R Client for the IATI Datastore API. R package version 0.0.0.9000.
+> Casajus N. & D'Agata S. (`r format(Sys.Date(), "%Y")`) riati: An R Client for the IATI Datastore API. R package version 0.0.0.9000.
 
 
 

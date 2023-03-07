@@ -4,9 +4,9 @@
 \name{riati-package}
 \alias{riati}
 \alias{riati-package}
-\title{riati: The Title of the Project}
+\title{riati: An R Client for the IATI Datastore API}
 \description{
-A paragraph providing a full description of the project (on several lines...)
+An interface for the IATI Datastore API \url{https://iatistandard.org/en/iati-tools-and-resources/iati-datastore/}.
 }
 \seealso{
 Useful links:
@@ -18,6 +18,11 @@ Useful links:
 }
 \author{
 \strong{Maintainer}: Nicolas Casajus \email{nicolas.casajus@fondationbiodiversite.fr} (\href{https://orcid.org/0000-0002-5537-5294}{ORCID}) [copyright holder]
+
+Authors:
+\itemize{
+  \item Stephanie D'Agata \email{stephanie.dagata@gmail.com} (\href{https://orcid.org/0000-0001-6941-8489}{ORCID})
+}
 
 }
 \keyword{internal}

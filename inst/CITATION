@@ -3,7 +3,7 @@ citHeader("To cite riati in publications use:")
 bibentry(
   bibtype = "Manual",
   title   = "riati: {An} {R} package to ...",
-  author  = c(person("Casajus Nicolas")),
+  author  = c(person("Casajus Nicolas"), person("D'Agata Stephanie")),
   year    = "2023",
   note    = "R package version 0.0.0.9000",
   url     = "https://github.com/frbcesab/riati"

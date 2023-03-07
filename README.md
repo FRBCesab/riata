@@ -62,8 +62,8 @@ The general workflow is the following:
 
 Please cite this package as:
 
-> Casajus N. (2023) riati: An R Client for the IATI Datastore API. R
-> package version 0.0.0.9000.
+> Casajus N. & D’Agata S. (2023) riati: An R Client for the IATI
+> Datastore API. R package version 0.0.0.9000.
 
 ## Code of Conduct
 
