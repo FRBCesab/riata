@@ -2,6 +2,6 @@ pandoc: 2.19.2
 pkgdown: 2.0.7
 pkgdown_sha: ~
 articles:
-  riata: riata.html
-last_built: 2023-03-07T07:57Z
+  riati: riati.html
+last_built: 2023-03-07T08:08Z
 
