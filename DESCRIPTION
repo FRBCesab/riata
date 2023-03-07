@@ -22,6 +22,10 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 VignetteBuilder: knitr
+Imports: 
+    httr,
+    jsonlite,
+    utils
 Suggests: 
     knitr,
     rmarkdown
